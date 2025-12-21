@@ -1,0 +1,10 @@
+.post {
+	background-color: lightgrey;
+	margin: 10px;
+	padding: 10px;
+	border-width: 2px;
+	border-color: black;
+}
+.fit-picture {
+	width: 512px;
+}
