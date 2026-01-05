@@ -1,10 +1,14 @@
+:root {
+	--width: 600px;
+}
 .post {
 	background-color: lightgrey;
 	margin: 10px;
 	padding: 10px;
 	border-width: 2px;
 	border-color: black;
+	width: var(--width);
 }
 .fit-picture {
-	width: 512px;
+	width: var(--width);
 }
