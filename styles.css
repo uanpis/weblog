@@ -3,11 +3,14 @@
 }
 .post {
 	background-color: lightgrey;
-	margin: 10px;
-	padding: 10px;
-	border-width: 2px;
-	border-color: black;
-	width: var(--width);
+	margin-right:	auto;
+	margin-left:	auto;
+	margin-top: 	10px;
+	margin-bottom:	10px;
+	padding: 		10px;
+	border-width:	2px;
+	border-color:	black;
+	width:			var(--width);
 }
 .fit-picture {
 	width: var(--width);
